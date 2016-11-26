@@ -2,8 +2,7 @@
 
 1. Remove Gemfile.lock
 2. Add into Gemfile
-<tt>
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem  
+<tt># Windows does not include zoneinfo files, so bundle the tzinfo-data gem<br />
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 </tt>
 3. <tt>bundle install</tt>
