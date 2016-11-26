@@ -4,7 +4,7 @@
 
 2. Add into Gemfile
 
-        # Windows does not include zoneinfo files, so bundle the tzinfo-data gem<br />
+        # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
         gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 3. Install all packets:
